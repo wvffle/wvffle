@@ -5,7 +5,7 @@
 # Oh, hello!
 Hey, I'm a js/frontend developer. The framework I adore is Vue.js since it's first release. So a couple of years right now.
 
-I'm also one of [mineflayer](https://github.com/PrismarineJS/mineflayer) developers. Unfortunately due to the fact that I'm a busy person, all of my PRs or projects are now paused so my work here goes down to moderating issues and reviewing PRs, which trust me, can be frustrating... But someone has to do it right? :)
+I'm also one of [mineflayer](https://github.com/PrismarineJS/mineflayer) maintainers. Unfortunately due to the fact that I'm a busy person, all of my PRs or projects are now paused so my work here goes down to moderating issues and reviewing PRs, which trust me, can be frustrating... But someone has to do it right? :)
 
 #### Sponsoring
 Well, if you respect my work on any of the repositories I commit to and want to buy me a beer there is my [paypal.me](https://paypal.me/wvffle) link ;)
