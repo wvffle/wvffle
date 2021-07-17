@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/wvffle/wvffle/blob/master/css_wvffle.png" alt="Illustration of a css waffle from my codepen (https://codepen.io/wvffle/pen/EyJxwa)" width=350px height=465px/>
+<img align="right" src="https://github.com/wvffle/wvffle/blob/master/wvffle.svg" alt="Illustration of a css waffle from my codepen (https://codepen.io/wvffle/pen/EyJxwa)" width=350px height=465px/>
 <img src="https://raw.githubusercontent.com/wvffle/wvffle-logo/master/logo-horizontal.svg" alt="[#] wvffle" width="160">
 
 
