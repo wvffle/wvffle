@@ -14,6 +14,3 @@ I'm also one of [mineflayer](https://github.com/PrismarineJS/mineflayer) maintai
 #### Social
 - linkedin: *[Kasper Seweryn](https://www.linkedin.com/in/kasper-seweryn-553241167/)*
 - codepen: *[wvffle](https://codepen.io/wvffle)*
-
-#### Donate
-- xmr: 89dTWzFrYFQ3JySBrfk3PdDR26xPckVM9PVS7g71KXBsapbg8714nnoEafstPbLCQxHa7P2YdqTNa3TaYwqxVd7F9JyEuyR
