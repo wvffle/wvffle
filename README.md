@@ -9,7 +9,7 @@ I'm also one of [mineflayer](https://github.com/PrismarineJS/mineflayer) maintai
 
 #### Contact
 - irc: *wvffle* on libera
-- matrix: *[@waff:wvffle.net](https://matrix.to/#/@waff:wvffle.net)*
+- matrix: *[@waff:juniorjpdj.pl](https://matrix.to/#/@waff:juniorjpdj.pl)*
 
 #### Social
 - linkedin: *[Kasper Seweryn](https://www.linkedin.com/in/kasper-seweryn-553241167/)*
