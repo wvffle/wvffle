@@ -3,9 +3,11 @@
 
 
 # Oh, hello!
-Hey, I'm a js/frontend developer. The framework I adore is Vue.js since it's first release. So a couple of years right now.
+Hey, I'm a frontend developer. The framework I adore is Vue.js since it's first release. So a couple of years right now.
 
-I'm also one of [mineflayer](https://github.com/PrismarineJS/mineflayer) maintainers. Unfortunately due to the fact that I'm a busy person, all of my PRs or projects are now paused so my work here goes down to moderating issues and reviewing PRs, which trust me, can be frustrating... But someone has to do it right? :)
+I'm currently working on [funkwhale](https://funkwhale.audio/), a community-driven project that lets you listen and share music and audio within a decentralized, open network.
+
+I was also one of [mineflayer](https://github.com/PrismarineJS/mineflayer) maintainers.
 
 #### Contact
 - irc: *wvffle* on libera
