@@ -11,7 +11,7 @@ Currently I'm working on [funkwhale](https://funkwhale.audio/), a community-driv
 
 I'm also an engineer and for my thesis project I've created my own front-end framework called [waff](https://github.com/wvffle/waff).
 
-During 2015 and 2016 I've been one of [mineflayer](https://github.com/PrismarineJS/mineflayer) maintainers and I was focusing on fixing bugs, adding new features and controlling the quality of the pull requests.
+During 2018 and 2019 I've been one of [mineflayer](https://github.com/PrismarineJS/mineflayer) maintainers and I was focusing on fixing bugs, adding new features and controlling the quality of the pull requests.
 
 #### Contact
 You can only contact me on matrix - *[@waff:juniorjpdj.pl](https://matrix.to/#/@waff:juniorjpdj.pl)*
