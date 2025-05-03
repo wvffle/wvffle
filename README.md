@@ -3,8 +3,6 @@
 
 # Kasper
 
-PhD student.
-
 Previous projects:
 - [funkwhale](https://funkwhale.audio/) - federated music and audio sharing platform
 - [waff](https://github.com/wvffle/waff) - own frontend framework (bachelor's thesis)
